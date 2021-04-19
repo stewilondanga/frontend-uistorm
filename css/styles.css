@@ -536,11 +536,12 @@ tbody tr:hover {
   }
 }
 
-/*.fireworks:nth-child(1) {
+.fireworks:nth-child(1) {
   -webkit-animation: fireworksTop 5s 0s infinite ease-out, fireworks0 50s 0s infinite step-end;
-          animation: fireworksTop 5s 0s infinite ease-out, fireworks0 50s 0s infinite step-end;
+  animation: fireworksTop 5s 0s infinite ease-out, fireworks0 50s 0s infinite step-end;
 }
-@-webkit-keyframes fireworks0 {
+
+/*@-webkit-keyframes fireworks0 {
   0% {
     left: 48%;
     transform: translateX(-50%) scale(0.63);
