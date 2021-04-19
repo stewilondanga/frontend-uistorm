@@ -515,11 +515,12 @@ tbody tr:hover {
     animation-timing-function: ease-in;
   }
 
-  /*  100% {
+  100% {
     top: 200%;
   }
 }
-@keyframes fireworksTop {
+
+/*@keyframes fireworksTop {
   0% {
     top: 100%;
   }
