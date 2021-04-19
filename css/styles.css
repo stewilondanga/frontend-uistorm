@@ -1706,14 +1706,14 @@ tbody tr:hover {
     --height: 25%;
   }
 
-  /*80% {
+  80% {
     left: 47%;
     transform: translateX(-50%) scale(0.82);
     --hue: 288;
     --height: 22%;
   }
 
-  90% {
+  /*90% {
     left: 21%;
     transform: translateX(-50%) scale(0.51);
     --hue: 324;
