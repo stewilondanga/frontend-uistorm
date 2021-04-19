@@ -314,7 +314,6 @@ body {
   text-shadow: #FFF 0 0 15px;
 }
 
-/*
 .navbar .circles li:hover span {
   -webkit-transform: scale(1.2);
   width: 100px;
@@ -322,6 +321,7 @@ body {
   visibility: visible;
 }
 
+/*
 .navbar .circles li span {
   height: 20px;
   width: 0;
