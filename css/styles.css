@@ -494,8 +494,6 @@ tbody tr:hover {
   background-color: rgba(0, 0, 255, 0.2);
 }
 
-/*
-
 .fireworks {
   position: absolute;
   top: 100%;
@@ -505,7 +503,8 @@ tbody tr:hover {
   transform-style: preserve-3d;
   transform: translateX(-50%);
 }
-@-webkit-keyframes fireworksTop {
+
+/*@-webkit-keyframes fireworksTop {
   0% {
     top: 100%;
   }
