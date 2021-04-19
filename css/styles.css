@@ -685,10 +685,11 @@ tbody tr:hover {
   }
 }
 
-/*.fireworks:nth-child(1) > .year {
+.fireworks:nth-child(1)>.year {
   background-color: hsl(calc(var(--hue) + 0), 100%, 75%);
 }
-.fireworks:nth-child(1) > .year:nth-child(1) {
+
+/*.fireworks:nth-child(1) > .year:nth-child(1) {
   --t:
     translateX(150px)
     translateY(-270px)
