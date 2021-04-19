@@ -170,11 +170,11 @@ body {
   top: 10px;
 }
 
-/*
 .navbar .hamburger span:nth-child(5), .navbar .hamburger span:nth-child(6) {
   top: 20px;
 }
 
+/*
 .navbar .hamburger.open {
   left: 240px;
 }
