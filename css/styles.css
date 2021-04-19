@@ -1965,12 +1965,12 @@ tbody tr:hover {
     translateX(350px) translateY(-740px) translateZ(0px) rotateX(35deg) rotateY(440deg) rotateZ(420deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(49) {
+.fireworks:nth-child(3)>.year:nth-child(49) {
   --t:
     translateX(400px) translateY(-420px) translateZ(-290px) rotateX(470deg) rotateY(200deg) rotateZ(535deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(50) {
+/*.fireworks:nth-child(3)>.year:nth-child(50) {
   --t:
     translateX(120px) translateY(-380px) translateZ(360px) rotateX(255deg) rotateY(711deg) rotateZ(160deg) scale(0);
 }
