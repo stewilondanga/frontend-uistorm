@@ -2005,12 +2005,12 @@ tbody tr:hover {
     translateX(230px) translateY(-560px) translateZ(270px) rotateX(129deg) rotateY(313deg) rotateZ(163deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(57) {
+.fireworks:nth-child(3)>.year:nth-child(57) {
   --t:
     translateX(-420px) translateY(-350px) translateZ(440px) rotateX(517deg) rotateY(22deg) rotateZ(219deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(58) {
+/*.fireworks:nth-child(3)>.year:nth-child(58) {
   --t:
     translateX(380px) translateY(-690px) translateZ(-490px) rotateX(139deg) rotateY(502deg) rotateZ(179deg) scale(0);
 }
