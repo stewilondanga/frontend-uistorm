@@ -392,9 +392,8 @@ main #contact {
   background-color: #FAC85B;
 }
 
-/*
 @media only screen and (max-width: 576px) {
-  .navbar {
+  /*.navbar {
     width: 100%;
   }
 
