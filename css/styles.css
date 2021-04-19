@@ -1131,8 +1131,8 @@ tbody tr:hover {
   }
 }
 
-/*@keyframes fireworks1 {
-  0% {
+@keyframes fireworks1 {
+  /*0% {
     left: 47%;
     transform: translateX(-50%) scale(0.55);
     --hue: 0;
