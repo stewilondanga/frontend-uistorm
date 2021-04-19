@@ -76,13 +76,13 @@ if (window.addEventListener) {
   window.attachEvent('onload', () => actions());
   window.attachEvent('onscroll', () => actions());
 }
-/*
 
-                            var navigate = (function() {
-                            	$('.dd').toggle();
-                            	$('.dd_btn').click(function() {
-                            		var dataName = $(this).attr('data-name');
-                            		$('.dd').hide();
-                            		$('.' + dataName).toggle();
-                            	});
-                            })();
+
+var navigate = (function() {
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
+})();
