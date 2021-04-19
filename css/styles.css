@@ -260,7 +260,6 @@ body {
   transition: transform 0.3s, opacity 0.2s, -webkit-transform 0.3s;
 }
 
-/*
 .navbar .nav ul.links li::before {
   margin-right: 5px;
   content: "[";
@@ -268,6 +267,7 @@ body {
   transform: translateX(20px);
 }
 
+/*
 .navbar .nav ul.links li::after {
   margin-left: 5px;
   content: "]";
