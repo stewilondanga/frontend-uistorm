@@ -1054,11 +1054,12 @@ tbody tr:hover {
     translateX(480px) translateY(-530px) translateZ(100px) rotateX(76deg) rotateY(76deg) rotateZ(151deg) scale(0);
 }
 
-/*.fireworks:nth-child(2) {
+.fireworks:nth-child(2) {
   -webkit-animation: fireworksTop 5s 1.6666666667s infinite ease-out, fireworks1 50s 1.6666666667s infinite step-end;
-          animation: fireworksTop 5s 1.6666666667s infinite ease-out, fireworks1 50s 1.6666666667s infinite step-end;
+  animation: fireworksTop 5s 1.6666666667s infinite ease-out, fireworks1 50s 1.6666666667s infinite step-end;
 }
-@-webkit-keyframes fireworks1 {
+
+/*@-webkit-keyframes fireworks1 {
   0% {
     left: 47%;
     transform: translateX(-50%) scale(0.55);
