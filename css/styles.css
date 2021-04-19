@@ -1664,14 +1664,14 @@ tbody tr:hover {
     --height: 17%;
   }
 
-  /*20% {
+  20% {
     left: 37%;
     transform: translateX(-50%) scale(0.99);
     --hue: 72;
     --height: 37%;
   }
 
-  30% {
+  /*30% {
     left: 24%;
     transform: translateX(-50%) scale(0.53);
     --hue: 108;
