@@ -1960,12 +1960,12 @@ tbody tr:hover {
     translateX(70px) translateY(-490px) translateZ(-430px) rotateX(34deg) rotateY(288deg) rotateZ(572deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(48) {
+.fireworks:nth-child(3)>.year:nth-child(48) {
   --t:
     translateX(350px) translateY(-740px) translateZ(0px) rotateX(35deg) rotateY(440deg) rotateZ(420deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(49) {
+/*.fireworks:nth-child(3)>.year:nth-child(49) {
   --t:
     translateX(400px) translateY(-420px) translateZ(-290px) rotateX(470deg) rotateY(200deg) rotateZ(535deg) scale(0);
 }
