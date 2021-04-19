@@ -347,7 +347,6 @@ body {
   visibility: hidden;
 }
 
-/*
 main {
   display: flex;
   flex-wrap: wrap;
@@ -361,6 +360,7 @@ main {
   width: 100%;
 }
 
+/*
 main>div {
   display: flex;
   justify-content: center;
