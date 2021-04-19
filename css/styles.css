@@ -321,7 +321,6 @@ body {
   visibility: visible;
 }
 
-/*
 .navbar .circles li span {
   height: 20px;
   width: 0;
@@ -342,6 +341,7 @@ body {
   white-space: nowrap;
 }
 
+/*
 .navbar .circles.open {
   margin-left: -100px;
   opacity: 0;
