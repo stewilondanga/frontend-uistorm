@@ -429,11 +429,11 @@ main #contact {
     display: none;
   }
 
-  /*
   .navbar .nav .circles.open {
     margin-top: -100px;
   }
 
+  /*
   .navbar .nav.open {
     top: 0;
   }
