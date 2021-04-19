@@ -505,10 +505,11 @@ tbody tr:hover {
 }
 
 @-webkit-keyframes fireworksTop {
-  /*0% {
+  0% {
     top: 100%;
   }
-  25% {
+
+  /*25% {
     top: var(--height);
     -webkit-animation-timing-function: ease-in;
             animation-timing-function: ease-in;
