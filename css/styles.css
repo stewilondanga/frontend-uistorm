@@ -131,7 +131,6 @@ body {
   left: 0;
 }
 
-/*
 .navbar .hamburger {
   cursor: pointer;
   height: 25px;
@@ -146,6 +145,7 @@ body {
   z-index: 5;
 }
 
+/*
 .navbar .hamburger span {
   background-color: white;
   display: block;
