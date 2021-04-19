@@ -1671,14 +1671,14 @@ tbody tr:hover {
     --height: 37%;
   }
 
-  /*30% {
+  30% {
     left: 24%;
     transform: translateX(-50%) scale(0.53);
     --hue: 108;
     --height: 40%;
   }
 
-  40% {
+  /*40% {
     left: 52%;
     transform: translateX(-50%) scale(0.8);
     --hue: 144;
