@@ -734,17 +734,12 @@ tbody tr:hover {
     translateX(160px) translateY(-600px) translateZ(450px) rotateX(696deg) rotateY(697deg) rotateZ(90deg) scale(0);
 }
 
-/*.fireworks:nth-child(1) > .year:nth-child(10) {
+.fireworks:nth-child(1)>.year:nth-child(10) {
   --t:
-    translateX(170px)
-    translateY(-340px)
-    translateZ(450px)
-    rotateX(56deg)
-    rotateY(378deg)
-    rotateZ(495deg)
-    scale(0);
+    translateX(170px) translateY(-340px) translateZ(450px) rotateX(56deg) rotateY(378deg) rotateZ(495deg) scale(0);
 }
-.fireworks:nth-child(1) > .year:nth-child(11) {
+
+/*.fireworks:nth-child(1) > .year:nth-child(11) {
   --t:
     translateX(-280px)
     translateY(-420px)
