@@ -406,7 +406,6 @@ main #contact {
     left: calc(100vw - 60px);
   }
 
-  /*
   .navbar .nav {
     align-items: flex-end;
     flex-wrap: wrap;
@@ -417,6 +416,7 @@ main #contact {
     width: 100%;
   }
 
+  /*
   .navbar .nav ul.links {
     font-size: 32px;
   }
