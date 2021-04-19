@@ -22,15 +22,15 @@ function onVisibilityChange(el) {
   }
   return visible;
 }
-/*
-  // Toggle classes for when hamburger is pressed
-  $('.hamburger').addEventListener('click', e => {
-    $('.hamburger').classList.toggle('open');
-    $('.nav').classList.toggle('open');
-    $('.links').classList.toggle('open');
-    $('.circles').classList.toggle('open');
-  });
 
+// Toggle classes for when hamburger is pressed
+$('.hamburger').addEventListener('click', e => {
+  $('.hamburger').classList.toggle('open');
+  $('.nav').classList.toggle('open');
+  $('.links').classList.toggle('open');
+  $('.circles').classList.toggle('open');
+});
+/*
   // Minimise navbar when a link is pressed
   document.querySelectorAll('a[href^="#"]').forEach(a => {
     a.addEventListener('click', function(e) {
