@@ -490,11 +490,11 @@ td:last-of-type {
   border-right: none;
 }
 
-/*
 tbody tr:hover {
   background-color: rgba(0, 0, 255, 0.2);
 }
 
+/*
 
 .fireworks {
   position: absolute;
