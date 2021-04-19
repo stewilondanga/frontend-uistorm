@@ -33,22 +33,22 @@ $('.hamburger').addEventListener('click', e => {
 
 // Minimise navbar when a link is pressed
 document.querySelectorAll('a[href^="#"]').forEach(a => {
-      a.addEventListener('click', function(e) {
-            e.preventDefault();
+  a.addEventListener('click', function(e) {
+    e.preventDefault();
 
-            $('.hamburger').classList.remove('open');
-            $('.nav').classList.remove('open');
-            $('.links').classList.remove('open');
-            $('.circles').classList.remove('open');
-            /*
-                              // Allow for smooth scrolling
-                              $(this.getAttribute('href')).scrollIntoView({
-                                behavior: 'smooth'
-                              });
+    $('.hamburger').classList.remove('open');
+    $('.nav').classList.remove('open');
+    $('.links').classList.remove('open');
+    $('.circles').classList.remove('open');
 
-                            });
-                          });
+    // Allow for smooth scrolling
+    $(this.getAttribute('href')).scrollIntoView({
+      behavior: 'smooth'
+    });
 
+  });
+});
+/*
                           function toggleGlow() {
                             sections.forEach(section => {
                               $('li.' + section.substring(1)).classList.remove('glow');
