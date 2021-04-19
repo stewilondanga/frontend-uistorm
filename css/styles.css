@@ -1945,12 +1945,12 @@ tbody tr:hover {
     translateX(-30px) translateY(-540px) translateZ(-250px) rotateX(560deg) rotateY(465deg) rotateZ(612deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(45) {
+.fireworks:nth-child(3)>.year:nth-child(45) {
   --t:
     translateX(-460px) translateY(-380px) translateZ(160px) rotateX(542deg) rotateY(422deg) rotateZ(191deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(46) {
+/*.fireworks:nth-child(3)>.year:nth-child(46) {
   --t:
     translateX(40px) translateY(-440px) translateZ(170px) rotateX(244deg) rotateY(198deg) rotateZ(100deg) scale(0);
 }
