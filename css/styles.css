@@ -2085,12 +2085,12 @@ tbody tr:hover {
     translateX(140px) translateY(-390px) translateZ(-480px) rotateX(77deg) rotateY(282deg) rotateZ(704deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(73) {
+.fireworks:nth-child(3)>.year:nth-child(73) {
   --t:
     translateX(-30px) translateY(-470px) translateZ(230px) rotateX(169deg) rotateY(508deg) rotateZ(607deg) scale(0);
 }
 
-.fireworks>.year {
+/*.fireworks>.year {
   position: absolute;
   width: 100%;
   height: 100%;
