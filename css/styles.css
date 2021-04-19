@@ -328,13 +328,13 @@
   white-space: nowrap;
 }
 
-/*
 .navbar .circles.open {
   margin-left: -100px;
   opacity: 0;
   visibility: hidden;
 }
 
+/*
 main {
   display: flex;
   flex-wrap: wrap;
