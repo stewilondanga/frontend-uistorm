@@ -2025,12 +2025,12 @@ tbody tr:hover {
     translateX(140px) translateY(-310px) translateZ(430px) rotateX(379deg) rotateY(499deg) rotateZ(161deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(61) {
+.fireworks:nth-child(3)>.year:nth-child(61) {
   --t:
     translateX(270px) translateY(-600px) translateZ(-180px) rotateX(178deg) rotateY(154deg) rotateZ(650deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(62) {
+/*.fireworks:nth-child(3)>.year:nth-child(62) {
   --t:
     translateX(130px) translateY(-720px) translateZ(-30px) rotateX(419deg) rotateY(139deg) rotateZ(499deg) scale(0);
 }
