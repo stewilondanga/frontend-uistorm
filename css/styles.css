@@ -1034,17 +1034,12 @@ tbody tr:hover {
     translateX(-230px) translateY(-350px) translateZ(80px) rotateX(240deg) rotateY(190deg) rotateZ(425deg) scale(0);
 }
 
-/*.fireworks:nth-child(1) > .year:nth-child(70) {
+.fireworks:nth-child(1)>.year:nth-child(70) {
   --t:
-    translateX(-400px)
-    translateY(-650px)
-    translateZ(260px)
-    rotateX(645deg)
-    rotateY(627deg)
-    rotateZ(210deg)
-    scale(0);
+    translateX(-400px) translateY(-650px) translateZ(260px) rotateX(645deg) rotateY(627deg) rotateZ(210deg) scale(0);
 }
-.fireworks:nth-child(1) > .year:nth-child(71) {
+
+/*.fireworks:nth-child(1) > .year:nth-child(71) {
   --t:
     translateX(480px)
     translateY(-490px)
