@@ -2106,11 +2106,11 @@ tbody tr:hover {
     transform: scale(0);
   }
 
-  /*25% {
+  25% {
     transform: none;
   }
 
-  100% {
+  /*100% {
     transform: var(--t);
   }
 }
