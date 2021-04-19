@@ -531,11 +531,12 @@ tbody tr:hover {
     animation-timing-function: ease-in;
   }
 
-  /*100% {
+  100% {
     top: 200%;
   }
 }
-.fireworks:nth-child(1) {
+
+/*.fireworks:nth-child(1) {
   -webkit-animation: fireworksTop 5s 0s infinite ease-out, fireworks0 50s 0s infinite step-end;
           animation: fireworksTop 5s 0s infinite ease-out, fireworks0 50s 0s infinite step-end;
 }
