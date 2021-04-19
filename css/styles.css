@@ -614,13 +614,14 @@ tbody tr:hover {
 }
 
 @keyframes fireworks0 {
-  /*0% {
+  0% {
     left: 48%;
     transform: translateX(-50%) scale(0.63);
     --hue: 0;
-    --height: 37% ;
+    --height: 37%;
   }
-  10% {
+
+  /*10% {
     left: 39%;
     transform: translateX(-50%) scale(0.79);
     --hue: 36;
