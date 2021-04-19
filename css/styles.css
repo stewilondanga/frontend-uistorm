@@ -1203,10 +1203,11 @@ tbody tr:hover {
   }
 }
 
-/*.fireworks:nth-child(2) > .year {
+.fireworks:nth-child(2)>.year {
   background-color: hsl(calc(var(--hue) + 120), 100%, 75%);
 }
-.fireworks:nth-child(2) > .year:nth-child(1) {
+
+/*.fireworks:nth-child(2) > .year:nth-child(1) {
   --t:
     translateX(480px)
     translateY(-310px)
