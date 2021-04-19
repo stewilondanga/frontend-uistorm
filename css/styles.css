@@ -1577,8 +1577,8 @@ tbody tr:hover {
   animation: fireworksTop 5s 3.3333333333s infinite ease-out, fireworks2 50s 3.3333333333s infinite step-end;
 }
 
-/*@-webkit-keyframes fireworks2 {
-  0% {
+@-webkit-keyframes fireworks2 {
+  /*0% {
     left: 67%;
     transform: translateX(-50%) scale(0.58);
     --hue: 0;
