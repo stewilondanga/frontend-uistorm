@@ -304,12 +304,12 @@ body {
   transition: all 0.5s ease-in-out;
 }
 
-/*
 .navbar .circles li.glow {
   -webkit-transform: scale(1.1);
   text-shadow: #FFF 0 0 15px;
 }
 
+/*
 .navbar .circles li:hover {
   -webkit-transform: scale(0.8);
   text-shadow: #FFF 0 0 15px;
