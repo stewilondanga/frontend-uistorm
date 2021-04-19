@@ -63,10 +63,10 @@ function actions() {
     if (onVisibilityChange($(section)))
       currSec = $(section);
   });
-  /*
-                              toggleGlow();
-                            }
 
+  toggleGlow();
+}
+/*
                             if (window.addEventListener) {
                               window.addEventListener('DOMContentLoaded', () => actions());
                               window.addEventListener('scroll', () => actions());
