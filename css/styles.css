@@ -2115,8 +2115,8 @@ tbody tr:hover {
   }
 }
 
-/*@keyframes yearTransform {
-  0% {
+@keyframes yearTransform {
+  /*0% {
     transform: scale(0);
   }
 
