@@ -183,12 +183,12 @@ body {
   transform: rotate(45deg);
 }
 
-/*
 .navbar .hamburger.open span:nth-child(2), .navbar .hamburger.open span:nth-child(5) {
   -webkit-transform: rotate(-45deg);
   transform: rotate(-45deg);
 }
 
+/*
 .navbar .hamburger.open span:nth-child(1) {
   left: 3px;
   top: 6px;
