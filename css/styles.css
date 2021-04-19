@@ -1721,11 +1721,11 @@ tbody tr:hover {
   }
 }
 
-/*.fireworks:nth-child(3)>.year {
+.fireworks:nth-child(3)>.year {
   background-color: hsl(calc(var(--hue) + 240), 100%, 75%);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(1) {
+/*.fireworks:nth-child(3)>.year:nth-child(1) {
   --t:
     translateX(-430px) translateY(-350px) translateZ(-160px) rotateX(504deg) rotateY(202deg) rotateZ(672deg) scale(0);
 }
