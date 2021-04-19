@@ -402,10 +402,11 @@ main #contact {
     left: 0.8rem;
   }
 
-  /*.navbar .hamburger.open {
+  .navbar .hamburger.open {
     left: calc(100vw - 60px);
   }
 
+  /*
   .navbar .nav {
     align-items: flex-end;
     flex-wrap: wrap;
