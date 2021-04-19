@@ -520,8 +520,8 @@ tbody tr:hover {
   }
 }
 
-/*@keyframes fireworksTop {
-  0% {
+@keyframes fireworksTop {
+  /*0% {
     top: 100%;
   }
   25% {
