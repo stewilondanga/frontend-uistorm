@@ -397,12 +397,12 @@ main #contact {
     width: 100%;
   }
 
-  /*.navbar .hamburger {
+  .navbar .hamburger {
     top: 0.8rem;
     left: 0.8rem;
   }
 
-  .navbar .hamburger.open {
+  /*.navbar .hamburger.open {
     left: calc(100vw - 60px);
   }
 
