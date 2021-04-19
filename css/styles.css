@@ -2101,8 +2101,8 @@ tbody tr:hover {
   animation-delay: inherit;
 }
 
-/*@-webkit-keyframes yearTransform {
-  0% {
+@-webkit-keyframes yearTransform {
+  /*0% {
     transform: scale(0);
   }
 
