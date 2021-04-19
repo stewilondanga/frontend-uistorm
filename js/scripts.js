@@ -48,16 +48,16 @@ document.querySelectorAll('a[href^="#"]').forEach(a => {
 
   });
 });
-/*
-                          function toggleGlow() {
-                            sections.forEach(section => {
-                              $('li.' + section.substring(1)).classList.remove('glow');
-                              if (section.substring(1) === currSec.id) {
-                                $('li.' + currSec.id).classList.add('glow');
-                              }
-                            });
-                          }
 
+function toggleGlow() {
+  sections.forEach(section => {
+    $('li.' + section.substring(1)).classList.remove('glow');
+    if (section.substring(1) === currSec.id) {
+      $('li.' + currSec.id).classList.add('glow');
+    }
+  });
+}
+/*
                           function actions() {
                             sections.forEach(section => {
                               if (onVisibilityChange($(section)))
