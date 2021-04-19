@@ -1649,14 +1649,14 @@ tbody tr:hover {
   }
 }
 
-/*@keyframes fireworks2 {
-  0% {
+@keyframes fireworks2 {
+  /*0% {
     left: 67%;
     transform: translateX(-50%) scale(0.58);
     --hue: 0;
     --height: 40%;
   }
-
+/*
   10% {
     left: 64%;
     transform: translateX(-50%) scale(0.72);
