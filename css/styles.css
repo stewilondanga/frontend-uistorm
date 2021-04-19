@@ -451,13 +451,13 @@ main #contact {
   }
 }
 
-/*
 .title {
   font-size: 60px;
   margin-bottom: 25px;
   color: #333
 }
 
+/*
 .title:first-letter {
   color: rgba(0, 0, 255, 0.5)
 }
