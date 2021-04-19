@@ -267,12 +267,12 @@
   transform: translateX(0);
 }
 
-/*
 .navbar .nav ul.links.open {
   opacity: 1;
   visibility: visible;
 }
 
+/*
 .navbar .nav.open {
   left: 0;
 }
