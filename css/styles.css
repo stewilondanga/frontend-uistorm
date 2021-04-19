@@ -1850,12 +1850,12 @@ tbody tr:hover {
     translateX(360px) translateY(-580px) translateZ(460px) rotateX(181deg) rotateY(545deg) rotateZ(553deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(26) {
+.fireworks:nth-child(3)>.year:nth-child(26) {
   --t:
     translateX(10px) translateY(-590px) translateZ(-380px) rotateX(662deg) rotateY(615deg) rotateZ(377deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(27) {
+/*.fireworks:nth-child(3)>.year:nth-child(27) {
   --t:
     translateX(-190px) translateY(-460px) translateZ(-70px) rotateX(551deg) rotateY(207deg) rotateZ(30deg) scale(0);
 }
