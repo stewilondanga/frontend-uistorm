@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background-color: #eee;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
 .share__icon {
   width: 32px;
   height: 32px;
@@ -437,20 +450,6 @@ main #contact {
     top: 0;
   }
 }
-
-@import url('https://fonts.googleapis.com/css?family=Lato');
-
-body {
-  margin: 0;
-  font-family: 'Lato', sans-serif;
-  background-color: #eee;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
-}
-
 
 .title {
   font-size: 60px;
