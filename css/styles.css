@@ -109,7 +109,6 @@
   font-family: "PT Sans", sans-serif;
 }
 
-/*
 .navbar {
   color: white;
   height: 100vh;
@@ -119,6 +118,7 @@
   left: 0;
 }
 
+/*
 .navbar .hamburger {
   cursor: pointer;
   height: 25px;
