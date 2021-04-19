@@ -231,7 +231,6 @@
   visibility: hidden;
 }
 
-/*
 .navbar .nav ul.links li {
   cursor: pointer;
   list-style: none;
@@ -240,6 +239,7 @@
   text-transform: uppercase;
 }
 
+/*
 .navbar .nav ul.links li::before, .navbar .nav ul.links li::after {
   display: inline-block;
   opacity: 0;
