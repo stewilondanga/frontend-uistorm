@@ -438,8 +438,6 @@ main #contact {
   }
 }
 
-/*
-
 #contact h1 {
   font-family: helvetica;
   font-weight: normal;
@@ -451,6 +449,7 @@ main #contact {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
