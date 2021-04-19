@@ -1975,12 +1975,12 @@ tbody tr:hover {
     translateX(120px) translateY(-380px) translateZ(360px) rotateX(255deg) rotateY(711deg) rotateZ(160deg) scale(0);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(51) {
+.fireworks:nth-child(3)>.year:nth-child(51) {
   --t:
     translateX(370px) translateY(-680px) translateZ(400px) rotateX(433deg) rotateY(42deg) rotateZ(233deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(52) {
+/*.fireworks:nth-child(3)>.year:nth-child(52) {
   --t:
     translateX(-30px) translateY(-670px) translateZ(270px) rotateX(493deg) rotateY(643deg) rotateZ(220deg) scale(0);
 }
