@@ -504,8 +504,8 @@ tbody tr:hover {
   transform: translateX(-50%);
 }
 
-/*@-webkit-keyframes fireworksTop {
-  0% {
+@-webkit-keyframes fireworksTop {
+  /*0% {
     top: 100%;
   }
   25% {
