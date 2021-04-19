@@ -1572,12 +1572,12 @@ tbody tr:hover {
     translateX(20px) translateY(-440px) translateZ(330px) rotateX(670deg) rotateY(386deg) rotateZ(578deg) scale(0);
 }
 
-/*.fireworks:nth-child(3) {
+.fireworks:nth-child(3) {
   -webkit-animation: fireworksTop 5s 3.3333333333s infinite ease-out, fireworks2 50s 3.3333333333s infinite step-end;
   animation: fireworksTop 5s 3.3333333333s infinite ease-out, fireworks2 50s 3.3333333333s infinite step-end;
 }
 
-@-webkit-keyframes fireworks2 {
+/*@-webkit-keyframes fireworks2 {
   0% {
     left: 67%;
     transform: translateX(-50%) scale(0.58);
