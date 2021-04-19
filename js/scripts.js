@@ -66,17 +66,17 @@ function actions() {
 
   toggleGlow();
 }
-/*
-                            if (window.addEventListener) {
-                              window.addEventListener('DOMContentLoaded', () => actions());
-                              window.addEventListener('scroll', () => actions());
-                              window.addEventListener('load', () => actions());
-                            } else if (window.attachEvent) {
-                              window.attachEvent('onDOMContentLoaded', () => actions());
-                              window.attachEvent('onload', () => actions());
-                              window.attachEvent('onscroll', () => actions());
-                            }
 
+if (window.addEventListener) {
+  window.addEventListener('DOMContentLoaded', () => actions());
+  window.addEventListener('scroll', () => actions());
+  window.addEventListener('load', () => actions());
+} else if (window.attachEvent) {
+  window.attachEvent('onDOMContentLoaded', () => actions());
+  window.attachEvent('onload', () => actions());
+  window.attachEvent('onscroll', () => actions());
+}
+/*
 
                             var navigate = (function() {
                             	$('.dd').toggle();
