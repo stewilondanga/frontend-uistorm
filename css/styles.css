@@ -218,7 +218,6 @@ body {
   top: 15px;
 }
 
-/*
 .navbar .nav {
   background-color: rgba(0, 0, 0, 0.7);
   display: flex;
@@ -233,6 +232,7 @@ body {
   z-index: 2;
 }
 
+/*
 .navbar .nav a {
   color: white;
   text-decoration: none;
