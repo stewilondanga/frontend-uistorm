@@ -57,32 +57,32 @@ function toggleGlow() {
     }
   });
 }
-/*
-                          function actions() {
-                            sections.forEach(section => {
-                              if (onVisibilityChange($(section)))
-                                currSec = $(section);
-                            });
 
-                            toggleGlow();
-                          }
+function actions() {
+  sections.forEach(section => {
+    if (onVisibilityChange($(section)))
+      currSec = $(section);
+  });
+  /*
+                              toggleGlow();
+                            }
 
-                          if (window.addEventListener) {
-                            window.addEventListener('DOMContentLoaded', () => actions());
-                            window.addEventListener('scroll', () => actions());
-                            window.addEventListener('load', () => actions());
-                          } else if (window.attachEvent) {
-                            window.attachEvent('onDOMContentLoaded', () => actions());
-                            window.attachEvent('onload', () => actions());
-                            window.attachEvent('onscroll', () => actions());
-                          }
+                            if (window.addEventListener) {
+                              window.addEventListener('DOMContentLoaded', () => actions());
+                              window.addEventListener('scroll', () => actions());
+                              window.addEventListener('load', () => actions());
+                            } else if (window.attachEvent) {
+                              window.attachEvent('onDOMContentLoaded', () => actions());
+                              window.attachEvent('onload', () => actions());
+                              window.attachEvent('onscroll', () => actions());
+                            }
 
 
-                          var navigate = (function() {
-                          	$('.dd').toggle();
-                          	$('.dd_btn').click(function() {
-                          		var dataName = $(this).attr('data-name');
-                          		$('.dd').hide();
-                          		$('.' + dataName).toggle();
-                          	});
-                          })();
+                            var navigate = (function() {
+                            	$('.dd').toggle();
+                            	$('.dd_btn').click(function() {
+                            		var dataName = $(this).attr('data-name');
+                            		$('.dd').hide();
+                            		$('.' + dataName).toggle();
+                            	});
+                            })();
