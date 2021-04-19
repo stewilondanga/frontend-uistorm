@@ -272,11 +272,11 @@
   visibility: visible;
 }
 
-/*
 .navbar .nav.open {
   left: 0;
 }
 
+/*
 .navbar .circles {
   transition: all 0.5s ease-in-out;
 }
