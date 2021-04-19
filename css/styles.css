@@ -1060,13 +1060,14 @@ tbody tr:hover {
 }
 
 @-webkit-keyframes fireworks1 {
-  /*  0% {
+  0% {
     left: 47%;
     transform: translateX(-50%) scale(0.55);
     --hue: 0;
-    --height: 16% ;
+    --height: 16%;
   }
-  10% {
+
+  /*10% {
     left: 75%;
     transform: translateX(-50%) scale(0.52);
     --hue: 36;
