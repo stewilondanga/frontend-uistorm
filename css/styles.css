@@ -267,7 +267,6 @@ body {
   transform: translateX(20px);
 }
 
-/*
 .navbar .nav ul.links li::after {
   margin-left: 5px;
   content: "]";
@@ -275,6 +274,7 @@ body {
   transform: translateX(-20px);
 }
 
+/*
 .navbar .nav ul.links li:hover::before, .navbar .nav ul.links li:hover::after, .navbar .nav ul.links li:focus::before, .navbar .nav ul.links li:focus::after {
   opacity: 1;
   -webkit-transform: translateX(0);
