@@ -1713,7 +1713,7 @@ tbody tr:hover {
     --height: 22%;
   }
 
-  /*90% {
+  90% {
     left: 21%;
     transform: translateX(-50%) scale(0.51);
     --hue: 324;
@@ -1721,7 +1721,7 @@ tbody tr:hover {
   }
 }
 
-.fireworks:nth-child(3)>.year {
+/*.fireworks:nth-child(3)>.year {
   background-color: hsl(calc(var(--hue) + 240), 100%, 75%);
 }
 
