@@ -1725,12 +1725,12 @@ tbody tr:hover {
   background-color: hsl(calc(var(--hue) + 240), 100%, 75%);
 }
 
-/*.fireworks:nth-child(3)>.year:nth-child(1) {
+.fireworks:nth-child(3)>.year:nth-child(1) {
   --t:
     translateX(-430px) translateY(-350px) translateZ(-160px) rotateX(504deg) rotateY(202deg) rotateZ(672deg) scale(0);
 }
 
-.fireworks:nth-child(3)>.year:nth-child(2) {
+/*.fireworks:nth-child(3)>.year:nth-child(2) {
   --t:
     translateX(50px) translateY(-650px) translateZ(-190px) rotateX(401deg) rotateY(196deg) rotateZ(180deg) scale(0);
 }
