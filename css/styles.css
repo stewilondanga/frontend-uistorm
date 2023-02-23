@@ -373,23 +373,23 @@ main #home {
 }
 
 main #pictures {
-  background-color: #8BC34A;
+  background-color: #253634;
 }
 
 main #projects {
-  background-color: #FDD835;
+  background-color: #253634;
 }
 
 main #blog {
-  background-color: #FF9800;
+  background-color: #253634;
 }
 
 main #about {
-  background-color: #FF5722;
+  background-color: #253634;
 }
 
 main #contact {
-  background-color: #FAC85B;
+  background-color: #253634;
 }
 
 @media only screen and (max-width: 576px) {
